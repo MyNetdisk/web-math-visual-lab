@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as t,a as o}from"./index-B-tLt8oo.js";const r={};function s(l,e){return n(),t("div",null,[...e[0]||(e[0]=[o("h1",null,"Web Math Visual Lab",-1),o("p",null,"前端图形数学交互式实验室，所有Demo在左侧导航栏选择。",-1)])])}const u=a(r,[["render",s]]);export{u as default};
